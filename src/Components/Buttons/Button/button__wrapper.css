@@ -1,0 +1,10 @@
+.button__wrapper {
+    align-items: center;
+    width: 65px;
+    font-size: 14px;
+    color: rgb(46, 54, 64);
+    background-color: rgb(252, 252, 252);
+    border-color: rgb(46, 54, 64);;
+    border-radius: 3px;
+    cursor: pointer;
+}
